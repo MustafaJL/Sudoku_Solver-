@@ -1,18 +1,18 @@
-#about project:
+# About project:
 This project is a sudoko solver application that solve a sudoko puzzle using backtracking algorithm and brute force approach.
 
-#FrontEnd:
+## FrontEnd:
 we implement frontend using simple web tools as html / css / js
 
-#BackEnd:
+## BackEnd:
 we use python programming language to solve the puzzle 
 
-##1- directories
+### 1- directories
     1.1-html: contain the structure of design of 9x9 grid
     1.2-css: contain the style of structure       
     1.3-Js: contain the functionallity that disallow user to enter more than one number in each input and use a regex to let user enter just numbers
     1.4-python_project_sudoko_solver: contain the enviroment of the project that has all the modules 
-##2- files
+### 2- files
     2.1-algo.py: files that contain the algorithm to solve sudoko using backtracking
     2.2-connection.php: contain the connection between mysql and server
     2.3-login.php: contain the login page that the user enter his account using it when he wants to play
